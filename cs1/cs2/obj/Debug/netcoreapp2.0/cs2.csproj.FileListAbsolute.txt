@@ -1,3 +1,10 @@
 /Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/obj/Debug/netcoreapp2.0/cs2.csproj.CoreCompileInputs.cache
 /Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/obj/Debug/netcoreapp2.0/cs2.AssemblyInfoInputs.cache
 /Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/obj/Debug/netcoreapp2.0/cs2.AssemblyInfo.cs
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/bin/Debug/netcoreapp2.0/cs2.deps.json
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/bin/Debug/netcoreapp2.0/cs2.runtimeconfig.json
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/bin/Debug/netcoreapp2.0/cs2.runtimeconfig.dev.json
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/bin/Debug/netcoreapp2.0/cs2.dll
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/bin/Debug/netcoreapp2.0/cs2.pdb
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/obj/Debug/netcoreapp2.0/cs2.dll
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/obj/Debug/netcoreapp2.0/cs2.pdb
