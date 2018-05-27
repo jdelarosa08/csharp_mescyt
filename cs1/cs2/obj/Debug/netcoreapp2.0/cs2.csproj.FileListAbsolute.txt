@@ -1,0 +1,3 @@
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/obj/Debug/netcoreapp2.0/cs2.csproj.CoreCompileInputs.cache
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/obj/Debug/netcoreapp2.0/cs2.AssemblyInfoInputs.cache
+/Users/joandelarosa/Desktop/csharp_mescyt/cs1/cs2/obj/Debug/netcoreapp2.0/cs2.AssemblyInfo.cs
