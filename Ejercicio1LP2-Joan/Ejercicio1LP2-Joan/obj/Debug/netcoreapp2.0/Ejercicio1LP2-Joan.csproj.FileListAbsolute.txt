@@ -1,0 +1,11 @@
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/bin/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.deps.json
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/bin/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.runtimeconfig.json
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/bin/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.runtimeconfig.dev.json
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/bin/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.dll
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/bin/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.pdb
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/obj/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.csprojResolveAssemblyReference.cache
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/obj/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.csproj.CoreCompileInputs.cache
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/obj/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.AssemblyInfoInputs.cache
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/obj/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.AssemblyInfo.cs
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/obj/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.dll
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio1LP2-Joan/Ejercicio1LP2-Joan/obj/Debug/netcoreapp2.0/Ejercicio1LP2-Joan.pdb
