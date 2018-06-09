@@ -1,0 +1,5 @@
+/Users/joandelarosa/Desktop/csharp_mescyt/cs3/cs3/bin/Debug/cs3.exe
+/Users/joandelarosa/Desktop/csharp_mescyt/cs3/cs3/bin/Debug/cs3.pdb
+/Users/joandelarosa/Desktop/csharp_mescyt/cs3/cs3/obj/x86/Debug/cs3.csproj.CoreCompileInputs.cache
+/Users/joandelarosa/Desktop/csharp_mescyt/cs3/cs3/obj/x86/Debug/cs3.exe
+/Users/joandelarosa/Desktop/csharp_mescyt/cs3/cs3/obj/x86/Debug/cs3.pdb

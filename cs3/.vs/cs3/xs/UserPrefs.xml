@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A291B6A8-2543-4566-99EC-9B4C339DE61F}|Default">
+  <MonoDevelop.Ide.ItemProperties.cs3 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cs3/clsProfesro.cs">
+    <Files>
+      <File FileName="cs3/Program.cs" Line="10" Column="10" />
+      <File FileName="cs3/clsAsignatura.cs" Line="25" Column="14" />
+      <File FileName="cs3/clsAlumno.cs" Line="32" Column="9" />
+      <File FileName="cs3/clsProfesro.cs" Line="8" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
