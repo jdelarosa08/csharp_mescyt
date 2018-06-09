@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{84650DD6-4A6D-4B98-921D-B1FBFF806A7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="app1/Entitlements.plist">
+    <Files>
+      <File FileName="app1/AppDelegate.cs" Line="24" Column="1" />
+      <File FileName="app1/Main.cs" Line="1" Column="1" />
+      <File FileName="app1/ViewController.cs" Line="1" Column="1" />
+      <File FileName="app1/Entitlements.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.app1 PreferredExecutionTarget="Test1" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

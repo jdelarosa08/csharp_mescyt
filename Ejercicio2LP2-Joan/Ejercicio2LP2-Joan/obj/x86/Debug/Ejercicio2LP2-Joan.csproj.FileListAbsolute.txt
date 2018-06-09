@@ -1,0 +1,6 @@
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio2LP2-Joan/Ejercicio2LP2-Joan/bin/Debug/Ejercicio2LP2-Joan.exe
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio2LP2-Joan/Ejercicio2LP2-Joan/bin/Debug/Ejercicio2LP2-Joan.pdb
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio2LP2-Joan/Ejercicio2LP2-Joan/obj/x86/Debug/Ejercicio2LP2-Joan.csprojResolveAssemblyReference.cache
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio2LP2-Joan/Ejercicio2LP2-Joan/obj/x86/Debug/Ejercicio2LP2-Joan.csproj.CoreCompileInputs.cache
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio2LP2-Joan/Ejercicio2LP2-Joan/obj/x86/Debug/Ejercicio2LP2-Joan.exe
+/Users/joandelarosa/Desktop/csharp_mescyt/Ejercicio2LP2-Joan/Ejercicio2LP2-Joan/obj/x86/Debug/Ejercicio2LP2-Joan.pdb
