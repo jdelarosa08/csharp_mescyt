@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C60288C4-2723-464F-AF92-122BABA220BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticaPOO/Program.cs">
+    <Files>
+      <File FileName="PracticaPOO/Program.cs" Line="15" Column="1" />
+      <File FileName="PracticaPOO/clsMotor.cs" Line="13" Column="6" />
+      <File FileName="PracticaPOO/clsCoche.cs" Line="18" Column="10" />
+      <File FileName="PracticaPOO/clsGaraje.cs" Line="21" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PracticaPOO PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
