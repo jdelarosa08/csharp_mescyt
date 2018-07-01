@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{C60288C4-2723-464F-AF92-122BABA220BF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PracticaPOO/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticaPOO/clsGaraje.cs">
     <Files>
-      <File FileName="PracticaPOO/Program.cs" Line="17" Column="1" />
+      <File FileName="PracticaPOO/Program.cs" Line="19" Column="13" />
       <File FileName="PracticaPOO/clsMotor.cs" Line="19" Column="33" />
       <File FileName="PracticaPOO/clsCoche.cs" Line="25" Column="19" />
-      <File FileName="PracticaPOO/clsGaraje.cs" Line="25" Column="38" />
+      <File FileName="PracticaPOO/clsGaraje.cs" Line="10" Column="61" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
