@@ -17,7 +17,6 @@ namespace PracticaPOO
 
             garaje.aceptarCoche(carro1, importe);
 
-
         }
     }
 }

@@ -1,10 +1,19 @@
 ﻿<Properties StartupConfiguration="{C60288C4-2723-464F-AF92-122BABA220BF}|Default">
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="PracticaPOO/clsGaraje.cs">
     <Files>
       <File FileName="PracticaPOO/Program.cs" Line="19" Column="13" />
       <File FileName="PracticaPOO/clsMotor.cs" Line="19" Column="33" />
       <File FileName="PracticaPOO/clsCoche.cs" Line="25" Column="19" />
       <File FileName="PracticaPOO/clsGaraje.cs" Line="10" Column="61" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticaPOO/Program.cs">
+    <Files>
+      <File FileName="PracticaPOO/Program.cs" Line="15" Column="1" />
+      <File FileName="PracticaPOO/clsMotor.cs" Line="13" Column="6" />
+      <File FileName="PracticaPOO/clsCoche.cs" Line="18" Column="10" />
+      <File FileName="PracticaPOO/clsGaraje.cs" Line="21" Column="13" />
+>>>>>>> eabf69d008bb7e8831bbbae28a339111d0c57a62
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
